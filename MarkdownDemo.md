@@ -3,12 +3,12 @@
 
 
 
- ##Test1
- ###Writting simple text
+##Test1
+ 
 I am testing the **bold** option. 
 I am writing an *italic* sentence. 
-This is a  combination of both***bold and italic*** sentence.
-~~Do not pay attention to this one I am just testing something ~~
+This is a  combination of both ***bold and italic*** sentence.
+~~Do not pay attention to this one I am just testing something.~~
 **Do not forget to _read_ the chapter for tuesday class**
 H<sub>2</sub> + Cl<sub>2</sub> → 2HCl
 KE=1/2mV<sup>2</sup>
@@ -29,7 +29,7 @@ Albert Camus once said >"Man is the only creature that refuses to be what he is"
 
 
 
-#####Test3
+##### Test3
 ### Learn about **ident,checklist,and link**.
    - Main idea1
      -The consequences of Drugs on people's health
@@ -44,6 +44,7 @@ Albert Camus once said >"Man is the only creature that refuses to be what he is"
 :open_book: Learn how to add emoji. Thanks,I like it. :smiley: 
 @JonathanHardwick This is the link for my README profile
 [Click here to view Rania profile](https://github.com/Rania0805/Rania-Anjorin/blob/45fd51816bd3a52c6479b413533752f72c7105e2/README.md)
+
 [Click here to see Rania ThingsIDontUnderstant file](https://github.com/Rania0805/Rania.git)
 
 ###### Test4
