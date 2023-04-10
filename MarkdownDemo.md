@@ -3,7 +3,7 @@
 
 
 
-##Test1
+## Test1
  
 I am testing the **bold** option. 
 I am writing an *italic* sentence. 
@@ -42,6 +42,7 @@ Albert Camus once said >"Man is the only creature that refuses to be what he is"
 - [ ] Finish your  project tasks before the 4 pm meeting #3
 
 :open_book: Learn how to add emoji. Thanks,I like it. :smiley: 
+
 @JonathanHardwick This is the link for my README profile
 [Click here to view Rania profile](https://github.com/Rania0805/Rania-Anjorin/blob/45fd51816bd3a52c6479b413533752f72c7105e2/README.md)
 
