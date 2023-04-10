@@ -3,8 +3,8 @@
 
 
 
- 
-##Test1
+ ##Test1
+ ###Writting simple text
 I am testing the **bold** option. 
 I am writing an *italic* sentence. 
 This is a  combination of both***bold and italic*** sentence.
@@ -14,22 +14,23 @@ H<sub>2</sub> + Cl<sub>2</sub> → 2HCl
 KE=1/2mV<sup>2</sup>
 Albert Camus once said >"Man is the only creature that refuses to be what he is".
 
-## Test2
+### Test2
 
-### Unordered List
+#### Unordered List
 
 - Cole Sprouse
 - Cole Chase
 - Cole Stokes
 
-### Ordered List
+#### Ordered List
 1. Cole Chase
 2. Cole Sprouse
 3. Cole Stokes
 
 
 
-###Test3
+#####Test3
+### Learn about **ident,checklist,and link**.
    - Main idea1
      -The consequences of Drugs on people's health
    -Main idea2
@@ -45,7 +46,7 @@ Albert Camus once said >"Man is the only creature that refuses to be what he is"
 [Click here to view Rania profile](https://github.com/Rania0805/Rania-Anjorin/blob/45fd51816bd3a52c6479b413533752f72c7105e2/README.md)
 [Click here to see Rania ThingsIDontUnderstant file](https://github.com/Rania0805/Rania.git)
 
-#### Test4
+###### Test4
 
 Inline code using backticks: `Console.WriteLine("I am currently learning about  basic formatting syntax.");`
 
