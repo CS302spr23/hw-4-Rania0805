@@ -37,9 +37,9 @@
      -The consequences of Drugs on social plan 
 
 
-- [x] Complete Homework 4#1
-- [ ] Finish reading assignment 9 before tuesday #2
-- [ ] Finish your  project tasks before the 4 pm meeting #3
+- [x] Complete Homework 4
+- [ ] Finish reading assignment 9 before tuesday 
+- [ ] Finish your  project tasks before the 4 pm meeting 
 
 :open_book: Learn how to add emoji. Thanks,I like it. :smiley: 
 
