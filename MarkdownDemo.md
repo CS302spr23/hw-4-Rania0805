@@ -5,14 +5,14 @@
 
 ## **Test1**
  
-I am testing the **bold** option. 
-I am writing an *italic* sentence. 
-This is a  combination of both ***bold and italic*** sentence.
-~~Do not pay attention to this one I am just testing something.~~
-**Do not forget to _read_ the chapter for tuesday class**
-H<sub>2</sub> + Cl<sub>2</sub> → 2HCl
-KE=1/2mV<sup>2</sup>
-Albert Camus once said >"Man is the only creature that refuses to be what he is".
+[]I am testing the **bold** option. 
+[]I am writing an *italic* sentence. 
+[]This is a  combination of both ***bold and italic*** sentence.
+[]~~Do not pay attention to this one I am just testing something.~~
+[]**Do not forget to _read_ the chapter for tuesday class.**
+[] H<sub>2</sub> + Cl<sub>2</sub> → 2HCl
+[]KE=1/2mV<sup>2</sup>
+[]Albert Camus once said >"Man is the only creature that refuses to be what he is".
 
 ### **Test2**
 
@@ -37,7 +37,7 @@ Albert Camus once said >"Man is the only creature that refuses to be what he is"
      -The consequences of Drugs on social plan 
 
 
-- [x]Complete Homework 4 #1
+- [x] Complete Homework 4#1
 - [ ] Finish reading assignment 9 before tuesday #2
 - [ ] Finish your  project tasks before the 4 pm meeting #3
 
