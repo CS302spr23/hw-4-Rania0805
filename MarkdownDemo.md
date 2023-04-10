@@ -12,7 +12,7 @@
 - **Do not forget to _read_ the chapter for tuesday class.**
 - H<sub>2</sub> + Cl<sub>2</sub> → 2HCl
 - KE=1/2mV<sup>2</sup>
-- Albert Camus once said >"Man is the only creature that refuses to be what he is".
+- Albert Camus once said >Man is the only creature that refuses to be what he is.
 
 ### **Test2**
 
@@ -30,12 +30,13 @@
 
 
 ##### **Test3**
- Learn about **ident,checklist,and link**.
-   - Main idea1
-     -The consequences of Drugs on people's health
-   -Main idea2
-     -The consequences of Drugs on social plan 
+ Learn about **displaying images,checklist,footnotes and link**.
 
+ This is a sentence with a footnote[^1].
+
+[^1]: This is the content of the footnote.
+
+ ![git and github logo](https://www.freecodecamp.org/news/content/images/2019/11/cover-pic.jpeg)  
 
 - [x] Complete Homework 4
 - [ ] Finish reading assignment 9 before tuesday 
